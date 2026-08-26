@@ -12,3 +12,6 @@ This certification demonstrates foundational knowledge of cybersecurity concepts
 ### Certificate
 
 Certificate documentation is included in this repository for verification and portfolio purposes.
+## Certificate
+
+[View Fortinet Certificate](./Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity%20%281%29.pdf)
